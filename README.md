@@ -1,4 +1,4 @@
-![image](https://github.com/Axboexx/CGViT/assets/58794211/163b8fa9-20e8-4180-b61e-525627b4b3a3)# CGViT
+# CGViT
 ### Abstract
 
 <div style="text-align: justify;">
